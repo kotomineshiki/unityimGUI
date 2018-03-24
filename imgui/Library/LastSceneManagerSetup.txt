@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/sjarp.unity
+  isLoaded: 1
+  isActive: 1
